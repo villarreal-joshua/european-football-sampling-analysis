@@ -30,7 +30,7 @@ This project compares player characteristics and performance across several Euro
 - Results highlighted how sample size interacts with population variability and distribution shape
 
 ## Files
-- `final_report.pdf` — write-up with results, tables, and conclusions
+- `Final_project.pdf` — write-up with results, tables, and conclusions
 - (Optional) spreadsheets used for computation
 
 ## Tools Used
